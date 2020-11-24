@@ -4,4 +4,5 @@ https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playli
 
 
 <img src="https://github.com/AttilaAKINCI/hackerRankSolutions/blob/main/src/interviewpreparationkit/warmup/salesbymatch/resource/c1.png">
+<img src="https://github.com/AttilaAKINCI/hackerRankSolutions/blob/main/src/interviewpreparationkit/warmup/salesbymatch/resource/c2.png">
 
